@@ -3,3 +3,38 @@ body{
     font: times;
     font-size: 15px;
 }
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.instructions{
+    line-height: 1.5;
+    width: 600px;
+    background-color: antiquewhite;
+    text-align: left;
+    border: 5px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.ingredients{
+    line-height: 1.5;
+    width: 600px;
+    background-color: antiquewhite;
+    text-align: left;
+    border: 5px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.img_chicken{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
